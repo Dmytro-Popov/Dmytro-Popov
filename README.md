@@ -1,4 +1,4 @@
-# Hallo, ich bin Dmytro 👋
+# Hallo, ich bin Dmytro 
 
 Ich bin Junior Web Developer aus Hamburg mit einem 
 IHK-Abschluss als Fachinformatiker für Anwendungsentwicklung (2026).
@@ -18,20 +18,20 @@ HTML5 · CSS3 · PHP · JavaScript · MySQL
 **Tools & Methoden**
 Git · Linux · VS Code · Composer · Jira · Scrum
 
-## 🚀 Aktuelle Projekte
+##  Aktuelle Projekte
 
-🎣 [Fishing Diary App](https://github.com/Dmytro-Popov/fishing-app)  
+ [Fishing Diary App](https://github.com/Dmytro-Popov/fishing-app)  
 Eine Laravel-Webanwendung als persönliches Anglertagebuch –  
 Fangergebnisse erfassen, Orte speichern, Fortschritte verfolgen.
 
-## 📚 Was ich gerade lerne
+##  Was ich gerade lerne
 
 - JavaScript (ES6+, async/await)
 - React.js Grundlagen
 - REST APIs
 
-## 📫 Kontakt
+##  Kontakt
 
-✉️ dmytro.ppv.23@gmail.com  
-📍 Hamburg, Deutschland  
+  dmytro.ppv.23@gmail.com  
+  Hamburg, Deutschland  
 🔗 [LinkedIn](https://www.linkedin.com/in/dmytro-popov-4559813b4/) · [Xing](https://www.xing.com/profile/Dmytro_Popov02155/)
