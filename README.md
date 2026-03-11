@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hallo, ich bin Dmytro 👋
 
-<!--
-**Dmytro-Popov/Dmytro-Popov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich bin Junior Web Developer aus Hamburg mit einem 
+IHK-Abschluss als Fachinformatiker für Anwendungsentwicklung (2026).
 
-Here are some ideas to get you started:
+Ich entwickle Webanwendungen mit WordPress und Laravel 
+und bin auf der Suche nach meiner ersten Stelle als 
+Junior Frontend- oder WordPress-Entwickler.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologien & Tools
+
+**Web & CMS**
+WordPress · Elementor · Gutenberg · Laravel (Blade, Eloquent, MVC)
+
+**Programmiersprachen**
+HTML5 · CSS3 · PHP · JavaScript · MySQL
+
+**Tools & Methoden**
+Git · Linux · VS Code · Composer · Jira · Scrum
+
+## 🚀 Aktuelle Projekte
+
+🎣 [Fishing Diary App](https://github.com/Dmytro-Popov/fishing-app)  
+Eine Laravel-Webanwendung als persönliches Anglertagebuch –  
+Fangergebnisse erfassen, Orte speichern, Fortschritte verfolgen.
+
+## 📚 Was ich gerade lerne
+
+- JavaScript (ES6+, async/await)
+- React.js Grundlagen
+- REST APIs
+
+## 📫 Kontakt
+
+✉️ dmytro.ppv.23@gmail.com  
+📍 Hamburg, Deutschland  
+🔗 [https://www.linkedin.com/in/dmytro-popov-4559813b4/](#) · [(https://www.xing.com/profile/Dmytro_Popov02155/web_profiles?nwt_nav=profile_icon)](#)
