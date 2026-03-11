@@ -33,5 +33,5 @@ Fangergebnisse erfassen, Orte speichern, Fortschritte verfolgen.
 ##  Kontakt
 
  - dmytro.ppv.23@gmail.com  
- - Hamburg, Deutschland  
-🔗 [LinkedIn](https://www.linkedin.com/in/dmytro-popov-4559813b4/) · [Xing](https://www.xing.com/profile/Dmytro_Popov02155/)
+ - Hamburg, Deutschland
+ - 🔗 [LinkedIn](https://www.linkedin.com/in/dmytro-popov-4559813b4/) · [Xing](https://www.xing.com/profile/Dmytro_Popov02155/)
