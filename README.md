@@ -23,6 +23,7 @@ Git · Linux · VS Code · Composer · Jira · Scrum
 [Fishing Diary App](https://github.com/Dmytro-Popov/fishing-app)  
 Eine Laravel-Webanwendung als persönliches Anglertagebuch –  
 Fangergebnisse erfassen, Orte speichern, Fortschritte verfolgen.
+
 [AI Chat Assistant](https://github.com/Dmytro-Popov/wp-chatgpt-plugin)  
 WordPress-Plugin mit ChatGPT API-Integration –  
 anpassbarer KI-Chatbot per Shortcode auf jeder Seite einbindbar.
