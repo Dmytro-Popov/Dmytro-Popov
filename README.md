@@ -7,7 +7,7 @@ Ich entwickle Webanwendungen mit WordPress und Laravel
 und bin auf der Suche nach meiner ersten Stelle als 
 Junior Frontend- oder WordPress-Entwickler.
 
-## 🛠️ Technologien & Tools
+## Technologien & Tools
 
 **Web & CMS**
 WordPress · Elementor · Gutenberg · Laravel (Blade, Eloquent, MVC)
@@ -32,6 +32,6 @@ Fangergebnisse erfassen, Orte speichern, Fortschritte verfolgen.
 
 ##  Kontakt
 
-  dmytro.ppv.23@gmail.com  
-  Hamburg, Deutschland  
+ - dmytro.ppv.23@gmail.com  
+ - Hamburg, Deutschland  
 🔗 [LinkedIn](https://www.linkedin.com/in/dmytro-popov-4559813b4/) · [Xing](https://www.xing.com/profile/Dmytro_Popov02155/)
