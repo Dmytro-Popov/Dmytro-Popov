@@ -72,23 +72,23 @@ KI-gestützte Entwicklung im Arbeitsalltag
 
 ## Ausgewählte Projekte
 
-### 📅 [event-scheduler](https://github.com/Dmytro-Popov/event-scheduler)
+### [event-scheduler](https://github.com/Dmytro-Popov/event-scheduler)
 Responsive Event-Anwendung im Team: Events ansehen, sich registrieren, anmelden und Events erstellen.
 Mein Anteil: Registrierungs- und Anmeldeseite inklusive Formularlogik (schrittweise Migration nach TypeScript).
 **Tech:** `React` `React Router` `Vite` `Tailwind CSS` `daisyUI` `Node.js (REST-API)`
 [Repository](https://github.com/Dmytro-Popov/event-scheduler)
 
-### 📓 [Personal-Diary](https://github.com/Dmytro-Popov/Personal-Diary)
+### [Personal-Diary](https://github.com/Dmytro-Popov/Personal-Diary)
 Tagebuch-Anwendung mit React. Das Deployment auf GitHub Pages läuft über Vite und GitHub Actions.
 **Tech:** `React` `JavaScript` `Vite` `GitHub Actions`
 [Repository](https://github.com/Dmytro-Popov/Personal-Diary) · [Live-Demo](LINK-ZUR-LIVE-DEMO)
 
-### 🎣 [fishing-app (Fisherman Diary)](https://github.com/Dmytro-Popov/fishing-app)
+### [fishing-app (Fisherman Diary)](https://github.com/Dmytro-Popov/fishing-app)
 Laravel-Lernprojekt zum Erfassen von Angelplätzen, Ausrüstung, Ködern, Fischarten und Wetterdaten.
 **Tech:** `Laravel` `PHP` `Blade` `MySQL`
 [Repository](https://github.com/Dmytro-Popov/fishing-app)
 
-### 🤖 [wp-chatgpt-plugin](https://github.com/Dmytro-Popov/wp-chatgpt-plugin)
+### [wp-chatgpt-plugin](https://github.com/Dmytro-Popov/wp-chatgpt-plugin)
 WordPress-Plugin mit KI-Chat-Assistent auf Basis der ChatGPT-API.
 **Tech:** `PHP` `JavaScript` `WordPress` `ChatGPT API`
 [Repository](https://github.com/Dmytro-Popov/wp-chatgpt-plugin)
