@@ -40,7 +40,6 @@ Ich arbeite gerne in agilen Teams (Scrum, Git-Workflow mit Branches und Pull Req
 ### Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![REST](https://img.shields.io/badge/REST--APIs-009688?style=flat)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 ### Datenbanken
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
