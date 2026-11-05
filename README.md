@@ -74,26 +74,26 @@ KI-gestützte Entwicklung im Arbeitsalltag
 
 ## Ausgewählte Projekte
 
-### [event-scheduler](https://github.com/Dmytro-Popov/event-scheduler)
-Responsive Event-Anwendung im Team: Events ansehen, sich registrieren, anmelden und Events erstellen.
-Mein Anteil: Registrierungs- und Anmeldeseite inklusive Formularlogik (schrittweise Migration nach TypeScript).
-**Tech:** `React` `React Router` `Vite` `Tailwind CSS` `daisyUI` `Node.js (REST-API)`
-[Repository](https://github.com/Dmytro-Popov/event-scheduler)
+### event-scheduler
+Responsive Event-Anwendung, entstanden im Team: Events ansehen, registrieren, anmelden und Events erstellen. Mein Anteil: Registrierungs- und Anmeldeseite inklusive Formularlogik (schrittweise Migration nach TypeScript).
+Tech: React, React Router, Vite, Tailwind CSS, daisyUI, Node.js (REST-API)
+Link: https://github.com/Dmytro-Popov/event-scheduler
 
-### [Personal-Diary](https://github.com/Dmytro-Popov/Personal-Diary)
+### Personal-Diary
 Tagebuch-Anwendung mit React. Das Deployment auf GitHub Pages läuft über Vite und GitHub Actions.
-**Tech:** `React` `JavaScript` `Vite` `GitHub Actions`
-[Repository](https://github.com/Dmytro-Popov/Personal-Diary) · [Live-Demo](LINK-ZUR-LIVE-DEMO)
+Tech: React, JavaScript, Vite, GitHub Actions
+Link: https://github.com/Dmytro-Popov/Personal-Diary | Live-Demo: LINK-ZUR-LIVE-DEMO
 
-### [fishing-app (Fisherman Diary)](https://github.com/Dmytro-Popov/fishing-app)
-Laravel-Lernprojekt zum Erfassen von Angelplätzen, Ausrüstung, Ködern, Fischarten und Wetterdaten.
-**Tech:** `Laravel` `PHP` `Blade` `MySQL`
-[Repository](https://github.com/Dmytro-Popov/fishing-app)
+### pokedex-diary
+Pokédex-Webseite, entstanden als Teamprojekt. Die Arbeit lief in Feature-Branches mit Pull Requests und Merges in den dev-Branch.
+Mein Anteil: Header mit Styling und sticky Navigation, Suchfunktion, Filter mit Filter-Buttons, blinkender Platzhalter im Suchfeld, „Zurück nach oben"-Button und das Einbinden der Skripte.
+Tech: HTML, CSS, JavaScript
+Link: https://github.com/Dmytro-Popov/pokedex-diary
 
-### [wp-chatgpt-plugin](https://github.com/Dmytro-Popov/wp-chatgpt-plugin)
+### wp-chatgpt-plugin
 WordPress-Plugin mit KI-Chat-Assistent auf Basis der ChatGPT-API.
-**Tech:** `PHP` `JavaScript` `WordPress` `ChatGPT API`
-[Repository](https://github.com/Dmytro-Popov/wp-chatgpt-plugin)
+Tech: PHP, JavaScript, WordPress, ChatGPT API
+Link: https://github.com/Dmytro-Popov/wp-chatgpt-plugin
 
 ### Weitere Repositories
 - [dice-game](https://github.com/Dmytro-Popov/dice-game) und [Rock-Paper-Scissors](https://github.com/Dmytro-Popov/Rock-Paper-Scissors): kleine JavaScript-Spiele zum Üben von Logik und DOM-Manipulation
