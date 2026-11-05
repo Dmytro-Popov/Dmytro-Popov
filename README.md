@@ -7,8 +7,8 @@
 Junior Webentwickler aus Hamburg, auf der Suche nach einer Festanstellung in Hamburg oder remote.
 
 [![E-Mail](https://img.shields.io/badge/E--Mail-dmytro.ppv.23%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dmytro.ppv.23@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/DEIN-PROFIL/)
-[![XING](https://img.shields.io/badge/XING-Profil-006567?style=flat&logo=xing&logoColor=white)](https://www.xing.com/profile/DEIN-PROFIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmytro-popov-4559813b4/)
+[![XING](https://img.shields.io/badge/XING-Profil-006567?style=flat&logo=xing&logoColor=white)](https://www.xing.com/profile/Dmytro_Popov02155/web_profiles?nwt_nav=profile_icon)
 
 </div>
 
@@ -118,6 +118,6 @@ WordPress-Plugin mit KI-Chat-Assistent auf Basis der ChatGPT-API.
 Ich suche eine Junior-Stelle als Frontend- oder Full-Stack-Entwickler in Hamburg oder remote.
 
 - 📧 [dmytro.ppv.23@gmail.com](mailto:dmytro.ppv.23@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/DEIN-PROFIL/)
-- 🟢 [XING](https://www.xing.com/profile/DEIN-PROFIL)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dmytro-popov-4559813b4/)
+- 🟢 [XING](https://www.xing.com/profile/Dmytro_Popov02155/web_profiles?nwt_nav=profile_icon)
 - 🐙 [GitHub](https://github.com/Dmytro-Popov)
