@@ -16,13 +16,15 @@ Junior Webentwickler aus Hamburg, auf der Suche nach einer Festanstellung in Ham
 
 ## Über mich
 
-Ich habe in der Ukraine als Arbeitsschutzingenieur gearbeitet und mich 2024 für den Wechsel in die IT entschieden. Von 01/2024 bis 01/2026 habe ich die Umschulung zum Fachinformatiker für Anwendungsentwicklung (IHK) bei BBQ Hamburg absolviert. Praktische Erfahrung habe ich als Praktikant bei der ADence GmbH in Hamburg gesammelt (WordPress, PHP, JavaScript, Elementor, Gutenberg).
+Aktuell vertiefe ich React, TypeScript, Node.js und die Integration von LLMs in der Weiterbildung „KI-Softwareentwicklung" an der WBS Coding School (bis 12/2026). Im Team-Projekt event-scheduler arbeite ich mit React und Vite und migriere meinen Teil schrittweise nach TypeScript.
 
-Aktuell vertiefe ich React, TypeScript, Node.js und die Integration von LLMs in der Weiterbildung „KI-Softwareentwicklung" an der WBS Coding School (bis 12/2026).
+Ich bin Fachinformatiker für Anwendungsentwicklung (IHK). Die Umschulung bei BBQ Hamburg habe ich von 01/2024 bis 01/2026 absolviert. Praktische Erfahrung habe ich als Praktikant bei der ADence GmbH in Hamburg gesammelt (WordPress, PHP, JavaScript, Elementor, Gutenberg).
 
 Ich arbeite gerne in agilen Teams (Scrum, Git-Workflow mit Branches und Pull Requests) und lege Wert auf verständlichen, wartbaren Code und Oberflächen, die sich einfach bedienen lassen.
 
-**Sprachen:** Ukrainisch (Muttersprache) · Deutsch (B2) · Russisch (verhandlungssicher) · Englisch (B1) · Bulgarisch (B1)
+Vor dem Wechsel in die IT habe ich in der Ukraine als Arbeitsschutzingenieur gearbeitet.
+
+**Sprachen:** Ukrainisch (Muttersprache) · Deutsch (B2) · Russisch (C2) · Englisch (B1) · Bulgarisch (B1)
 
 ---
 
