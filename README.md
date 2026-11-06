@@ -82,7 +82,7 @@ Link: https://github.com/Dmytro-Popov/event-scheduler
 ### Personal-Diary
 Tagebuch-Anwendung mit React. Das Deployment auf GitHub Pages läuft über Vite und GitHub Actions.
 Tech: React, JavaScript, Vite, GitHub Actions
-Link: https://github.com/Dmytro-Popov/Personal-Diary
+Link: https://dmytro-popov.github.io/Personal-Diary/
 
 ### pokedex-diary
 Pokédex-Webseite, entstanden als Teamprojekt. Die Arbeit lief in Feature-Branches mit Pull Requests und Merges in den dev-Branch.
