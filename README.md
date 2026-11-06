@@ -82,13 +82,13 @@ Link: https://github.com/Dmytro-Popov/event-scheduler
 ### Personal-Diary
 Tagebuch-Anwendung mit React. Das Deployment auf GitHub Pages läuft über Vite und GitHub Actions.
 Tech: React, JavaScript, Vite, GitHub Actions
-Link: https://github.com/Dmytro-Popov/Personal-Diary | Live-Demo: LINK-ZUR-LIVE-DEMO
+Link: https://github.com/Dmytro-Popov/Personal-Diary
 
 ### pokedex-diary
 Pokédex-Webseite, entstanden als Teamprojekt. Die Arbeit lief in Feature-Branches mit Pull Requests und Merges in den dev-Branch.
 Mein Anteil: Header mit Styling und sticky Navigation, Suchfunktion, Filter mit Filter-Buttons, blinkender Platzhalter im Suchfeld, „Zurück nach oben"-Button und das Einbinden der Skripte.
 Tech: HTML, CSS, JavaScript
-Link: https://github.com/Dmytro-Popov/pokedex-diary
+Link: https://dmytro-popov.github.io/pokedex-diary/
 
 ### wp-chatgpt-plugin
 WordPress-Plugin mit KI-Chat-Assistent auf Basis der ChatGPT-API.
